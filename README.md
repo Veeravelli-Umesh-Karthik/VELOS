@@ -79,7 +79,8 @@ https://velos-logistics-system.web.app
 
 - ML-based route risk prediction  
 - Driver fatigue detection  
-- Advanced analytics dashboard  
+- Advanced analytics dashboard
+- live to use in daily life
 
 ---
 
